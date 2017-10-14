@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestCustomerService", "RestCustomerService\RestCustomerService.csproj", "{BBBA7B40-37CF-46A7-AC88-99559C50614E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestCustomerServiceTests", "RestCustomerServiceTests\RestCustomerServiceTests.csproj", "{CFD2FDA3-1287-4E34-8F14-C05D71A23538}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BBBA7B40-37CF-46A7-AC88-99559C50614E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBBA7B40-37CF-46A7-AC88-99559C50614E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBBA7B40-37CF-46A7-AC88-99559C50614E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD2FDA3-1287-4E34-8F14-C05D71A23538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD2FDA3-1287-4E34-8F14-C05D71A23538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD2FDA3-1287-4E34-8F14-C05D71A23538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD2FDA3-1287-4E34-8F14-C05D71A23538}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
